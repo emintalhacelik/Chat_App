@@ -1,8 +1,9 @@
-C# Chat App
+C# Chat App 🚀
 
-A simple TCP chat application built in C# with Windows Forms. Includes Client and Server for real-time messaging.
+A simple TCP chat application built in C# with Windows Forms.
+Includes Client and Server for real-time messaging.
 
-Features
+✨ Features
 
 Real-time text messaging
 
@@ -12,8 +13,8 @@ UTF-8 message encoding
 
 Server supports one client
 
-How to Run
-Server
+⚡ How to Run
+Server 🖥️
 
 Open Sunucu project in Visual Studio
 
@@ -21,7 +22,7 @@ Build and run
 
 Click “SUNUCUYU BAŞLAT”
 
-Client
+Client 💬
 
 Open Chat_App project
 
@@ -29,12 +30,12 @@ Build and run
 
 Click “BAĞLAN”, type a message, click “GÖNDER”
 
-Notes
+📝 Notes
 
 Server must run before client
 
-Educational purpose, no encryption or multi-client support
+Educational project – no encryption or multi-client support
 
-License
+📜 License
 
 Open-source for learning and experimentation
