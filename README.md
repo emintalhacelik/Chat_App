@@ -3,39 +3,40 @@
 A simple TCP chat application built in C# with Windows Forms.
 Includes Client and Server for real-time messaging.
 
-✨ Features
+## ✨ Features
 
-Real-time text messaging
+* Real-time text messaging
 
-Simple Windows Forms UI
+* Simple Windows Forms UI
 
-UTF-8 message encoding
+* UTF-8 message encoding
 
-Server supports one client
+* Server supports one client
 
-⚡ How to Run
-Server 🖥️
+##⚡ How to Run
 
-Open Sunucu project in Visual Studio
+### Server 🖥️
 
-Build and run
+* Open Sunucu project in Visual Studio
 
-Click “SUNUCUYU BAŞLAT”
+* Build and run
 
-Client 💬
+* Click “SUNUCUYU BAŞLAT”
 
-Open Chat_App project
+### Client 💬
 
-Build and run
+* Open Chat_App project
 
-Click “BAĞLAN”, type a message, click “GÖNDER”
+* Build and run
 
-📝 Notes
+* Click “BAĞLAN”, type a message, click “GÖNDER”
 
-Server must run before client
+## 📝 Notes
 
-Educational project – no encryption or multi-client support
+* Server must run before client
 
-📜 License
+* Educational project – no encryption or multi-client support
+
+## 📜 License
 
 Open-source for learning and experimentation
