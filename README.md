@@ -13,7 +13,7 @@ Includes Client and Server for real-time messaging.
 
 * Server supports one client
 
-##⚡ How to Run
+## ⚡ How to Run
 
 ### Server 🖥️
 
