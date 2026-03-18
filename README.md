@@ -1,4 +1,4 @@
-C# Chat App 🚀
+# C# Chat App 🚀
 
 A simple TCP chat application built in C# with Windows Forms.
 Includes Client and Server for real-time messaging.
