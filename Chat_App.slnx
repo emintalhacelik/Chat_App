@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Chat_App/Chat_App.csproj" />
+  <Project Path="Sunucu/Sunucu.csproj" />
+</Solution>
